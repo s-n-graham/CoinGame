@@ -1,0 +1,26 @@
+#player {
+	width: 100px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+#coin {
+	width: 100px;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#scoreBoard {
+	width: 20px;
+	position: absolute;
+	top: 50px;
+	left: 20px;
+	border: 8px solid #FFD700;
+}
+
+label {
+	text-align: center;
+	margin-left: 6px;
+}
